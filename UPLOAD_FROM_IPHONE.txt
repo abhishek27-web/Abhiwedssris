@@ -1,0 +1,9 @@
+GITHUB IPHONE UPLOAD
+
+1. Extract this ZIP in the Files app.
+2. Open the extracted folder. ALL website files are already in ONE folder (no subfolders).
+3. In your GitHub repository tap Add file -> Upload files.
+4. Select all the extracted files (index.html + asset-* + css-* + ww-*).
+5. Commit changes and replace the old index.html/files when prompted.
+
+Do NOT upload this ZIP itself. Upload the extracted files.
